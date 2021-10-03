@@ -1,4 +1,4 @@
-package io.github.dominikthomas.messaging;
+package io.github.dominikthomas.messaging.helloworld;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
